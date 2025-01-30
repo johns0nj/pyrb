@@ -8,9 +8,9 @@ DESCRIPTION = (
 LONG_DESCRIPTION = (
     """pyrb is a Python library to solve constrained risk budgeting problem."""
 )
-AUTHOR = "Jean-Charles Richard"
-AUTHOR_EMAIL = "jcharles.richard@gmail.com"
-URL = "https://github.com/jcrichard/pyrb"
+AUTHOR = "Johns0nj"
+AUTHOR_EMAIL = "zouguanzhong@gmail.com"
+URL = "https://github.com/johns0nj/pyrb"
 LICENSE = "Apache License, Version 2.0"
 
 REQUIREMENTS = ["pandas>=0.19", "numba>=0.4", "quadprog>=0.1.0"]
